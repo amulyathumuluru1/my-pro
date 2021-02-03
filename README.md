@@ -56,9 +56,6 @@ plt.title(" Yearly Statewise GDP ")
 # b) From the data we can see that though there was slight decrease in the % GDP growth rates from 2014-15 to 2015-16 across all the states nation wide , but still due to a good amount of increase is shown from 2012-15by these states , they are performing better  
 #c) On the other hand , states :sikkim , meghalaya and Goa fall under the bottom three states and has to work in most of the areas to imporve better.
 #c1: Meghalaya and Goa showed a steep decline in the growth rate from 2014-16 .
-C:\Users\amuly\Anaconda3\lib\site-packages\seaborn\categorical.py:3666: UserWarning: The `factorplot` function has been renamed to `catplot`. The original name will be removed in a future release. Please update your code. Note that the default `kind` in `factorplot` (`'point'`) has changed `'strip'` in `catplot`.
-  warnings.warn(msg)
-Text(0.5, 1, ' Yearly Statewise GDP ')
 
 #PART 1 A -DATA 1 A : 
 #Q2 : e)How will you compare the growth rate of GDP of anyn two states : 
